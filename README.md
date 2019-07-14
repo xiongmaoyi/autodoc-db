@@ -1,2 +1,2 @@
 # autodoc-db
-Generate database document.
+Generate database document..
